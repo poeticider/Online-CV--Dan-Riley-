@@ -32,7 +32,7 @@ const Main = () => {
                 </div>
                 <br></br>
 
-                <h3>Other skills</h3>
+                <h3>Other skills:</h3>
                 
                 <div className="skillsDiv">
                     <h3>French/Spanish Language</h3>
