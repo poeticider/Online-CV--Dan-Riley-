@@ -25,6 +25,7 @@ const Main = () => {
                     <h3>Ruby on Rails</h3>
                     <h3>Php</h3>
                     <h3>JQuery</h3>
+                    <h3>TypeScript</h3>
                     <h3>Java</h3>
                     <h3>C#</h3>
                     <h3>SQL</h3>
@@ -49,20 +50,27 @@ const Main = () => {
 
             <div className="mainSiteChild">
                 <h2 className="mainTitle">Current Goals</h2>
-                <h3 id="goalsSubTitle">My ambition is to become a full-time web developer.</h3>
+                <h3 id="goalsSubTitle">My ambition is to become a full-time Web-Developer.</h3>
                     <p className="mainP">
                         In 2021 I made the decision to career-switch into 
                         programming and I haven't looked back since!
+                        
                     </p>
+
+                    <aside>I am currently studying <strong>TypeScript</strong> and <strong>Php</strong>.</aside>
                 
 
                 <br></br>
 
                 <h2 className="mainTitle">Personal Informantion</h2>
                 <p>
-                    I have lived and worked across the globe as a linguist, teacher, political-scientist and now web developer.
-                    After completing a 12-month foundational traineeship last year, I decided to specialise in web-development through a sponsored bootcamp.
-                    I am currently practicing JavaScript/React and hope to aslo get back to Ruby/Ruby on Rails soon!
+                    I have lived and worked across the globe as a linguist, teacher, political-scientist and now web-developer.<br></br>
+
+                    After completing a 12-month foundational traineeship in programming last year,
+                    I made the top 7% of 20,000 candidates to be accepted onto an intensive Web-Development
+                    course. This was co-certified by the University of Manchester in partnership with the Department for Education 
+                    and specialised in React, JavaScript, Node, Git Bash, HTML and CSS. My final grade was
+                    99%.
                 </p>
 
                 <br></br>
@@ -70,7 +78,7 @@ const Main = () => {
                 <h2 className="mainTitle">NoteWorthy <span id="titleJobs">Work</span> + <span id="titleEdu">Education</span></h2>
 
                 <ul>
-                    <li className="mainULEdu">Web Development Bootcamp. HyperionDev (Remote) 2022 - current.</li>
+                    <li className="mainULEdu">Web-Development Bootcamp. University of Manchester/HyperionDev (Remote) 2022 - 2023.</li>
                     <li className="mainULJobs">Junior Ruby on Rails Developer at SuperByte, Shrewsbury, UK. 2022.</li>
                     <li className="mainULEdu">Coding Traineeship. IT Career Switch (Remote) 2021 - 2022.</li>
                     <li className="mainULJobs">English Instructor at Wall Street English Academy, Jeddah, Saudi Arabia. 2020 - 2021.</li>
