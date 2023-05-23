@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Online-CV--Dan-Riley-/static/css/main.70135fe7.css",
-    "main.js": "/Online-CV--Dan-Riley-/static/js/main.8ca13a7a.js",
+    "main.css": "/Online-CV--Dan-Riley-/static/css/main.25435a7d.css",
+    "main.js": "/Online-CV--Dan-Riley-/static/js/main.5be31d1a.js",
     "static/media/Inter-Bold.ttf": "/Online-CV--Dan-Riley-/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
     "static/media/Inter-Thin.ttf": "/Online-CV--Dan-Riley-/static/media/Inter-Thin.f341ca512063c66296d1.ttf",
     "static/media/Inter-Regular.ttf": "/Online-CV--Dan-Riley-/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
     "index.html": "/Online-CV--Dan-Riley-/index.html",
-    "main.70135fe7.css.map": "/Online-CV--Dan-Riley-/static/css/main.70135fe7.css.map",
-    "main.8ca13a7a.js.map": "/Online-CV--Dan-Riley-/static/js/main.8ca13a7a.js.map"
+    "main.25435a7d.css.map": "/Online-CV--Dan-Riley-/static/css/main.25435a7d.css.map",
+    "main.5be31d1a.js.map": "/Online-CV--Dan-Riley-/static/js/main.5be31d1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.70135fe7.css",
-    "static/js/main.8ca13a7a.js"
+    "static/css/main.25435a7d.css",
+    "static/js/main.5be31d1a.js"
   ]
 }
