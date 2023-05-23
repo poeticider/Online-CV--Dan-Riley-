@@ -16,7 +16,7 @@
     z-index: 99;
 }
 
-#title {
+#titleAnchor {
     text-align: center;
     grid-row: 1;
     grid-column: 2/3;
@@ -24,9 +24,16 @@
     margin-top: 0.3rem;
     padding-bottom: 0rem;
     margin-bottom: 0rem;
-    font-size: 2rem;
+    font-size: 1rem;
+    text-decoration: none;
     font-family: 'Inter-Bold', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#title {
+    margin: 0rem;
     color: #F99333;
+    
 }
 
 #subTitle {

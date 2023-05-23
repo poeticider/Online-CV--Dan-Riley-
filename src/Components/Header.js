@@ -8,9 +8,17 @@ const Header = () => {
     return(
 
         <header className="siteHeader">
-            <h1 id="title">Dan Riley</h1>
-            <h2 id="subTitle">Web Developer</h2>
+            <a  
+                id="titleAnchor"
+                href="https://poeticider.github.io/portfolio/"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <h1 id="title">Dan Riley</h1>
+                
+            </a>
 
+                <h2 id="subTitle">Web Developer</h2>
             <a  
                 className="anchorTags"
                 href="https://www.linkedin.com/in/daniel-riley-a20389196/"
