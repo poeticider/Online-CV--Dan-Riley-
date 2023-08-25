@@ -28,7 +28,9 @@ const Main = () => {
                     <h3>TypeScript</h3>
                     <h3>Java</h3>
                     <h3>C#</h3>
+                    <h3>WordPress</h3>
                     <h3>SQL</h3>
+                    <h3>Docker</h3>
 
                 </div>
                 <br></br>
@@ -57,7 +59,7 @@ const Main = () => {
                         
                     </p>
 
-                    <aside>I am currently studying <strong>TypeScript</strong> and <strong>Php</strong>.</aside>
+                    <aside>I am currently studying <strong>SQL</strong> and <strong>PHP</strong>.</aside>
                 
 
                 <br></br>
@@ -69,8 +71,7 @@ const Main = () => {
                     After completing a 12-month foundational traineeship in programming last year,
                     I made the top 7% of 20,000 candidates to be accepted onto an intensive Web-Development
                     course. This was co-certified by the University of Manchester in partnership with the Department for Education 
-                    and specialised in React, JavaScript, Node, Git Bash, HTML and CSS. My final grade was
-                    99%.
+                    specialising in React, JavaScript, Node, Git Bash, HTML and CSS. My final grade was 99%.
                 </p>
 
                 <br></br>
@@ -78,6 +79,7 @@ const Main = () => {
                 <h2 className="mainTitle">NoteWorthy <span id="titleJobs">Work</span> + <span id="titleEdu">Education</span></h2>
 
                 <ul>
+                <li className="mainULJobs">Web Developer at The Curious, Shrewsbury, UK. 2023.</li>
                     <li className="mainULEdu">Web-Development Bootcamp. University of Manchester/HyperionDev (Remote) 2022 - 2023.</li>
                     <li className="mainULJobs">Junior Ruby on Rails Developer at SuperByte, Shrewsbury, UK. 2022.</li>
                     <li className="mainULEdu">Coding Traineeship. IT Career Switch (Remote) 2021 - 2022.</li>
