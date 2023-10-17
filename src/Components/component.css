@@ -1,4 +1,18 @@
 
+/* ---------------------------------UNIVERSAL CSS -------------------------------------*/
+
+.anchorTags {
+    text-decoration: none;
+    text-decoration-color: #ebd266;
+}
+
+.anchorTagChild:hover {
+    color: #ebd266;
+    text-decoration: underline;
+
+
+}
+
 /* ----------------------------------HEADER CSS------------------------------ */
 
 .siteHeader {
@@ -56,6 +70,10 @@
 .anchorTagChild {
     padding: 0rem;
     margin: 0rem;
+}
+
+.siteHeader > a > h3 {
+    padding-bottom: 0.5rem;
 }
 
 /* ----------------------------------MAIN CSS------------------------------ */
