@@ -42,6 +42,7 @@
     padding: 0rem;
     margin: 0rem;
     font-size: 1.4rem;
+    color: #ebd266;
 }
 
 .anchorTags {
@@ -64,8 +65,9 @@
     display: grid;
     grid-template-columns: 0.8fr 4fr;
     position: relative;
-    top: 8rem;
-    height: 75rem;
+    margin-top: 8rem;
+    height: 100%;
+    width: 100%;
 }
 
 /* ---------------------------------------SIDEBAR-------------------------------------- */
@@ -99,7 +101,7 @@
     padding: 1rem;
     text-align: left;
     background-color: #1E1A1A;
-    border-bottom: 1rem solid #100E0E;
+    border-bottom: 1rem solid #171616;
 }
 
 #goalsSubTitle {
@@ -127,4 +129,18 @@
 .mainULEdu {
     padding: 0.5rem;  
     color: #ebd266;  
+}
+
+/* -----------------------------------------------Footer-------------------------------------------------------- */
+
+.footer {
+    border-top: #E6E4E4 solid 0.1rem;
+    background-color: #100E0E;
+    width: 100%;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
